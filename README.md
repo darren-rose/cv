@@ -1,16 +1,14 @@
 # cv
 
-Summary
 Technical:
 
-Darren delivers development, training, mentoring and consulting and has has done since 1995. A polyglot architect, developer, operations engineer with expertise in Docker, Kubernetes, Rancher, Micro-services, Micro-frontends, Java, Groovy, Clojure, Javascript, ReactJS, Redux, VueJS, Go, C++, Spring, Spring Boot, Apache Camel, GIT, Maven, Gradle, Rancher, Ansible, Jenkins, AWS, Cloud Formations, Terraform, Linux, Mac OS.
+Since 1995, Darren has been providing training, development, mentoring and consulting. A polyglot software developer with expertise in Docker, Kubernetes, micro-services, micro-frontends, Java, Python Go, Groovy, Javascript, ReactJS, Redux, VueJS, C++, Spring Boot, GIT, Gradle, Ansible, AWS, Terraform, Linux, Mac OS.
 
 Plain English:
 
-Darren graduated from Reading University in 1995 and has been using Java since 1997.
+Darren graduated in 1995 from Reading University with a 1st class honors degree in Computer Science and Cybernetics.
 
-Darren enriches teams with both technical expertise whilst being able to work with a diverse range of personalities.
+Darren enriches teams both technically and socially.
 
-Where Darren excels is applying current best practices and open source software to deliver the desired business goals in the shortest possible time frame. 
+Where Darren excels is applying current best practices and open source technology to modernise existing applications, reduce development costs and operating costs. 
 
-As a solution architect, developer or infrastructure engineer, Darren is capable of adding value across all areas of the software development lifecycle.
